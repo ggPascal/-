@@ -8,7 +8,7 @@
 3.安装完Jupyter Notebook后，还是在cmd内输入python -m jupyter notebook 把你的文件拖进来
 <br/>4.选中最后一个块，在页面上方点击+按钮</br>
 5.在下拉菜单中，选择Markdown/标记
-6.改好后，保存
+<br/>6.改好后，保存</br>
 7.回到这里，点Upload Files，在第一个填空处填写你的名字和日期，将文件拖到最上面的区域
 按下绿色按钮，完成！
 
